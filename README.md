@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hey there, I'm Dhruv
 
-<!--
-**dhrvkyn/dhrvkyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://imgur.com/SFfQ1Cn.png" alt="Waifu Pic" width="300px">
+</p>
 
-Here are some ideas to get you started:
+- ⚡ Engineering student @ GLA University, Mathura
+- 👨‍💻 Exploring code one step at a time
+- 🧠 Aiming to blend passion with profession
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages**: C, Python
+- **Web Dev**: HTML, CSS, JavaScript, Next.js
+- **Learning**: Rust, Go, SQL
+
+### What I'm up to
+- 🛠 Working on cool projects for uni and personal growth
+- 🌱 Constantly learning and building, one commit at a time
+
+### Find me around the web 🌐
+- 🌍 Personal website: [d19.in](https://d19.in)
+- 💬 Discord: [hit me up](#)
+
+<!-- Stats (optional, flex your green squares) -->
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrvkyn&show_icons=true&theme=radical)
