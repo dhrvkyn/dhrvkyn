@@ -1,9 +1,5 @@
 ## Gm chat, I'm Dhruv
 
-<p align="center">
-  <img src="https://imgur.com/SFfQ1Cn.png" alt="Waifu Pic" width="300px">
-</p>
-
 - ⚡ Engineering student @ GLA University, Mathura
 - 👨‍💻 Exploring code one step at a time
 - 🧠 Aiming to blend passion with profession
